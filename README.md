@@ -2,8 +2,6 @@
 
 <br>
 
-### About Me 💻:
-
 
 ### Connect with me ☕ :
 
@@ -14,9 +12,6 @@
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pinarkonuk")](https://www.instagram.com/pinar_konuk/)
 
 <br>
-
-
-### My Skills 🛠️ :
 
 
    
