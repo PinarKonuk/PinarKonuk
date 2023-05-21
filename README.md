@@ -9,9 +9,9 @@
 
 <br>
 
-[![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "@irempekkiyak")](https://www.linkedin.com/in/irempekkiyak/)
-[![Mail](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pekkiyakirem@gmail.com")](mailto:pekkiyakirem@gmail.com)
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "@irempekkiyak")](https://www.instagram.com/irempekkiyak/)
+[![Linkedin](https://img.icons8.com/fluency/48/000000/linkedin.png "@pinarkonuk")](https://www.linkedin.com/in/p%C4%B1nar-konuk-66a4b9174/)
+[![Mail](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pinarkonuk00@hotmail.com")](mailto:pinarkonuk00@hotmail.com)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "@pinarkonuk")](https://www.instagram.com/pinar_konuk/)
 
 <br>
 
