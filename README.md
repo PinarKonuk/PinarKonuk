@@ -1,14 +1,18 @@
 # Merhaba! Ben Pınar 👋
 
-🎓 Bilgisayar Mühendisliği mezunuyum (Hacettepe Üniversitesi).  
+🎓 Hacettepe Üniversitesi Bilgisayar Mühendisliği mezunuyum.  
 💻 Yazılım geliştirme, veri bilimi, yapay zeka ve DevOps ile ilgileniyorum.  
-🌱 Şu anda Java Spring, Python ve DevOps konularında çalışıyorum.  
+🌱 Şu anda Java Spring, veri bilimi ve DevOps konularında çalışıyorum.  
 🎯 Hedefim: Global ölçekte yazılım geliştirici olmak (Google ✨).  
 📚 Aktif olarak LeetCode ve Udemy üzerinden kendimi geliştiriyorum.  
 
 ## 🚀 Projelerim
-- 🔥 Gerçek zamanlı yangın ve duman tespiti (YOLOv8 + F-CNN)
-- 📊 Veri analizi ve görselleştirme projeleri (Pandas, Matplotlib)
+- 🔥 **Gerçek Zamanlı Yangın ve Duman Tespiti**  
+  YOLOv8 ve F-CNN kullanarak geliştirdiğim bu proje, görüntü işleme teknikleriyle yangın ve dumanı gerçek zamanlı olarak tespit etmeyi amaçlamaktadır.
+
+- 📊 **Veri Analizi ve Görselleştirme Projeleri**  
+  Pandas ve Matplotlib kütüphanelerini kullanarak çeşitli veri setleri üzerinde analizler yapıp, görselleştirmeler oluşturdum.
+
 
 ## 📫 Bana ulaşmak için:
 [LinkedIn](https://www.linkedin.com/in/p%C4%B1nar-konuk/) | [Email](mailto:pinarkonuk00@hotmail.com)
