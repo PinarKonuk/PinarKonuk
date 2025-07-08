@@ -3,8 +3,8 @@
 🎓 Hacettepe Üniversitesi Bilgisayar Mühendisliği mezunuyum.  
 💻 Yazılım geliştirme, veri bilimi, yapay zeka ve DevOps ile ilgileniyorum.  
 🌱 Şu anda Java Spring, veri bilimi ve DevOps konularında çalışıyorum.  
-🎯 Hedefim: Global ölçekte yazılım geliştirici olmak (Google ✨).  
-📚 Aktif olarak LeetCode ve Udemy üzerinden kendimi geliştiriyorum.  
+🎯 Hedefim: Global ölçekte yazılım geliştirici olmak.  
+📚 Aktif olarak LeetCode  üzerinden kendimi geliştiriyorum.  
 
 ## 🚀 Projelerim
 - 🔥 **Gerçek Zamanlı Yangın ve Duman Tespiti**  
