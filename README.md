@@ -12,8 +12,8 @@
 - **Frameworks:** LangChain, RAG, Gradio  
 - **Cloud & DevOps:** Docker, Jenkins, GCP (learning), Kubernetes  
 - **Visualization:** Power BI, Seaborn, Matplotlib  
-- **Other:** Git, Jupyter, MySQL, PostgreSQL  
+- **Other:** Git, Jupyter, MySQL, PostgreSQL
 
 
 ## 📫 Contact:
-[LinkedIn](https://www.linkedin.com/in/pinar-konuk/) | [Email](mailto:pinarkonuk00@hotmail.com)
+[LinkedIn](www.linkedin.com/in/pinarkonuk) | [Email](mailto:pinarkonuk00@hotmail.com)
