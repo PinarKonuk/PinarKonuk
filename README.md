@@ -16,4 +16,4 @@
 
 
 ## 📫 Contact:
-[LinkedIn](www.linkedin.com/in/pinarkonuk) | [Email](mailto:pinarkonuk00@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/pinarkonuk/) | [Email](mailto:pinarkonuk00@hotmail.com)
