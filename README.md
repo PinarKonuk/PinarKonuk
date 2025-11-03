@@ -1,34 +1,44 @@
-# 👋 Hi, I'm Pınar Konuk
+# 👋 Hi, I'm Pınar Konuk  
 
-- 🎓 Computer Engineering Graduate from Hacettepe University
-- 📊 Data Analyst passionate about transforming raw data into actionable business insights
-- 💡 Experienced in statistical analysis, data visualization, and business intelligence solutions
-- 🔍 Skilled in identifying trends, patterns, and key performance indicators to drive data-driven decisions
-- 🌍 Seeking Data Analyst opportunities in business intelligence, market research, and performance analytics
+I'm a Computer Engineer who builds intelligent, data-driven systems — and cares about how they scale, automate, and run in the real world.
 
-## 🔧 Core Data Analysis Skills
+My journey combines **Data & AI, Cloud/DevOps, and Enterprise Integration**, giving me a full-stack understanding of how modern products are designed, deployed, and improved.
 
-- Programming: Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL)
-- Visualization & BI: Power BI, Seaborn, Matplotlib, Interactive Dashboards
-- Statistical Analysis: Descriptive & Inferential Statistics, A/B Testing, Hypothesis Testing
-- Data Processing: Data Cleaning, ETL Processes, Data Modeling, Feature Engineering
-- Tools: Excel (Advanced), Jupyter Notebooks, Git, Docker
-- Databases: MySQL, PostgreSQL, Data Warehousing Concepts
-- AI/ML (Bonus): Machine Learning Models, Predictive Analytics, LangChain, Hugging Face
-  
-## 📈 Featured Data Analysis Projects
+---
 
-- [Airline Passenger Satisfaction Analysis](https://github.com/PinarKonuk/Airline-Passenger-Satisfaction-Analysis)  
-  Comprehensive analysis of customer satisfaction data using statistical methods, correlation analysis, and predictive modeling to identify key satisfaction drivers and provide actionable business recommendations.
+### 🚀 What I Do
 
-- [POWER BI Dashboard Projects](https://github.com/PinarKonuk/POWER-BI)  
-  Professional dashboard collection featuring sales analytics, customer behavior analysis, and KPI tracking with interactive visualizations and automated reporting solutions.
-## 🎯 Data Analysis Expertise
-- Business Intelligence: KPI development, performance metrics, trend analysis
-- Customer Analytics: Segmentation, behavioral analysis, satisfaction surveys
-- Market Research: Statistical modeling, survey analysis, competitive analysis
-- Financial Analysis: Revenue tracking, cost analysis, profitability metrics
-- Operational Analytics: Process optimization, efficiency metrics, quality analysis
-  
-## 📫 Contact:
-[LinkedIn](https://www.linkedin.com/in/pinarkonuk/) | [Email](mailto:pinarkonuk00@hotmail.com)
+🔹 **Data & AI** – Turning data into insights and building ML-powered solutions  
+🔹 **DevOps & Cloud** – Automating software delivery and containerized environments  
+🔹 **Digital Transformation & ERP** – SAP integration and AI-driven business process optimization  
+
+This unique mix allows me to work across the lifecycle of an intelligent system:  
+from data → to model → to automated deployment → to real business value.
+
+---
+
+### 🧠 Current Focus
+
+I’m currently expanding my Cloud & DevOps skills through the **Huawei DevOps Bootcamp**, with hands-on experience in:
+
+- CI/CD pipelines (Git, Jenkins, Docker)  
+- Containerization & orchestration (Docker, Kubernetes)  
+- Infrastructure-as-Code (Terraform)  
+
+And I’m integrating my data/ML background into this — aiming toward **MLOps / AI Platform Engineering**.
+
+---
+
+### 🛠️ Tech Stack
+
+**DevOps & Cloud:** Docker, Kubernetes, Jenkins, Linux, Terraform  
+**Programming:** Python, SQL, Bash  
+**AI/ML:** Scikit-learn, TensorFlow, PyTorch (basic)  
+**Data & BI:** Power BI, Pandas, NumPy, Data Modeling, Analytics  
+**Other:** Git, VS Code, Jupyter  
+
+---
+
+### 📫 Connect With Me
+
+🌍 LinkedIn: linkedin.com/in/pinarkonuk  
