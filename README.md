@@ -12,9 +12,9 @@
 - Visualization & BI: Power BI, Seaborn, Matplotlib, Interactive Dashboards
 - Statistical Analysis: Descriptive & Inferential Statistics, A/B Testing, Hypothesis Testing
 - Data Processing: Data Cleaning, ETL Processes, Data Modeling, Feature Engineering
-- Tools: Excel (Advanced), Jupyter Notebooks, Git, Docker
+- Tools: Excel , Jupyter Notebooks, Git, Docker
 - Databases: MySQL, PostgreSQL, Data Warehousing Concepts
-- AI/ML (Bonus): Machine Learning Models, Predictive Analytics, LangChain, Hugging Face
+- AI/ML : Machine Learning Models, Predictive Analytics, LangChain, Hugging Face
   
 ## 📈 Featured Data Analysis Projects
 
